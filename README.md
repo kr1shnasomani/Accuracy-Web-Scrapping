@@ -24,6 +24,7 @@
 9. Download SQL Server Management Studio 20 from the internet. After downloading is completed, enter the username, password and server name. Now click on 'New Query' and copy the following lines there:
 
    use *enter the database name*;
+
    select * from WebJobList where CompanyName = '*enter the company name*';
 
-10. Once this step is done click on 'Execute'. After this you will be able to see all the scrapped job information in the output section of SQL Server Management Studio 20.
+11. Once this step is done click on 'Execute'. After this you will be able to see all the scrapped job information in the output section of SQL Server Management Studio 20.
