@@ -4,11 +4,11 @@
    - Selenium
    - pandas
 
-2. Enter the details of the driver, server, database name, username and password
+2. Enter the details of the driver, server, database name, username and password.
 
 3. Copy the link of the company's career page and paste it in the code.
 
-4. If there is a pop up asking about the cookies, then follow the following steps: left click > select 'Inspect Element' option > choose the 'Agree' option > create a XPath > copy it in the code.
+4. If there is a pop up asking about the cookies, then follow the following steps: left click > select 'Inspect Element' option > choose the 'Agree' option > create a XPath > paste it in the code.
 
 5. Three cases occur up while scrapping job information from websites:
    - More Details Button: Companies which have option like 'More Details' come under this case. For example: https://www.knstek.com/jobs/. Follow the same steps as given on point number 4, but instead of the 'Agree' option choose the 'More Details' option.
